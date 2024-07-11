@@ -1,3 +1,3 @@
-### My custom Minecraft Launcher
+# My custom Minecraft Launcher
 
-# This branch contains releases of my launcher
+## This branch contains releases of my launcher
